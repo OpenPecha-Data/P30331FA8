@@ -1,0 +1,65 @@
+id: P30331FA8
+initial_creation_type: input
+source_metadata:
+  title: Karma Chakme Series
+  language: es
+  description: 'Texts by and about Karma Chakme (karma chags med, 1613–1678), also
+    known as Rāga Asya, a Sanskritized version of his name which he often uses in
+    his writings:'
+  volume:
+    f8e2aa54d21d4a04b8024a73b69615db:
+      title: A Discourse on the Confession of Harmful Deeds Spoken by Yama Dharmarāja
+        to Karma Chakme
+      parent: Confession
+    84776c38033c497a90110da1dc6db2db:
+      title: Brief Confession to the Earth Lords
+      parent: Confession
+    92b4f17d4a4a4f3b975277f1eccf2429:
+      title: Brief Smoke Offering to the Great Lion of the World
+      parent: Gesar
+    32eb34e277694b9391b2553e9ad11ebc:
+      title: 'Zabchema: Profound Cure, The Practice of Bhaiṣajya-Guru, Lord of Physicians'
+      parent: Healing
+    28807e379d92494fb4792121ab5a1b3d:
+      title: Prayer to Gyaltsen Tsemö Pung Gyen
+      parent: Lungta
+    e91760bb1b5e4fd0807080e0726673f2:
+      title: Prayer to the Lion of Speech
+      parent: Mañjuśrī
+    02b08bb812d14fa2933be8f7faa3f3d6:
+      title: A Concise Sang Offering to Tārā
+      parent: Offering Rites
+    4fca981a90f740de8080613cea5a093f:
+      title: 'Lasel Chenmo: A Sang Offering to the Nāgas'
+      parent: Offering Rites
+    be8f5712187d40839ed6a4f28a401fc6:
+      title: A Prayer to the Goddess Parṇaśavarī
+      parent: Prayers
+    257a6ae64b6949799fd3f2dcbd8cbc29:
+      title: Lamp Aspiration Prayer (from the Tsok Offering 'A Rain of Blessings')
+      parent: Prayers
+    93ed8cc9e4dc4612af1d516eef7b2923:
+      title: Prayer for the Land of Great Bliss Practice
+      parent: Prayers
+    895df4f2b292427ebfbd89c13940ab2a:
+      title: The Concise Mahāmudrā Preliminaries Arranged for Recitation
+      parent: Preliminary Practices
+    1ddffa67b1de4ef58689a4ce6983c17c:
+      title: A Daily Practice of Buddha Akṣobhya
+      parent: Sādhanas
+    a5345309b2704b75b9eba8f733778ca6:
+      title: Sādhana of Bhaiṣajya Guru (Medicine Buddha)
+      parent: Sādhanas
+    667a6573750b42a2b4507ca44823e3ef:
+      title: 'The Swift Steed of Garuḍa, King of Birds: An Instruction for Travelling
+        to Sukhāvatī: A Visualization and Recitation of Uṣnīṣa-Sitātapatrā'
+      parent: Sādhanas
+    0e425071461f4c0ea09d56bc456ce80a:
+      title: Extensive Instructions on the Transference of Consciousness to the Land
+        of Great Bliss
+      parent: Transference of Consciousness
+    edfed039bc0c4c95bece6aa799d5584b:
+      title: Brief Dhāraṇī of Glorious Vajraṇakhī
+      parent: Vajraṇakhī
+created_at: '2022-03-01T00:11:08.820359'
+last_modified_at: '2022-03-01T00:11:08.820362'
